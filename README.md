@@ -5,3 +5,6 @@
 
 # 実行  
 **bmp-c.exe**を実行すると**bluebox.bmp**ファイルが生成されます。  
+
+# ビルド  
+$ gcc .../Sources/main.c .../bmlib/bmph.o
