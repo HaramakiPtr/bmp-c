@@ -36,4 +36,4 @@ int main(void)
 	free(image);
 	fclose(fp);
 	return 0;
-}p
+}
