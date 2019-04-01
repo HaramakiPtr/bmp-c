@@ -7,4 +7,4 @@
 **bmp-c.exe**を実行すると**bluebox.bmp**ファイルが生成されます。  
 
 # リンク  
-$ gcc .../Sources/main.c .../bmlib/bmph.o
+Makefile学習中です
